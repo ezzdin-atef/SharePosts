@@ -1,2 +1,2 @@
-# MVC-Project
+# SharePosts
 Object Oriented PHP &amp; MVC
